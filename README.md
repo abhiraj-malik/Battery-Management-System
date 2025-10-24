@@ -23,8 +23,7 @@ The temperature of battery does tries to rise high during initial part of simula
 
 
 
-<img width="1911" height="952" alt="Screenshot 2025-10-24 193027" src="https://github.com/user-attachments/assets/9d830671-f1b1-49b7-8f2f-24b06978a0d8" />
-The heat conduction rate
+<img width="1911" height="952" alt="Screenshot 2025-10-24 193027" src="https://github.com/user-attachments/assets/9d830671-f1b1-49b7-8f2f-24b06978a0d8" /> The heat conduction rate
 
 
 
