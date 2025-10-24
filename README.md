@@ -28,8 +28,7 @@ The temperature of battery does tries to rise high during initial part of simula
 
 
 
-<img width="554" height="368" alt="Screenshot 2025-10-24 193100" src="https://github.com/user-attachments/assets/164e59d8-3d48-4cc6-9790-44478fc5de05" />
-The state of charge of battery
+<img width="554" height="368" alt="Screenshot 2025-10-24 193100" src="https://github.com/user-attachments/assets/164e59d8-3d48-4cc6-9790-44478fc5de05" /> The state of charge of battery
 
 
 
