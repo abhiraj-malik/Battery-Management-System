@@ -17,8 +17,7 @@ The refrigeration system
 
 
 
-<img width="1914" height="931" alt="Screenshot 2025-10-24 193115" src="https://github.com/user-attachments/assets/c216957d-5bd7-4870-ba85-c8355ec0013a" />
-The temperature of battery does tries to rise high during initial part of simulation but eventually starts to drop due to cold plate conduction. I have used only one plate here for conduction and due to this the temperature taking time to drop. 
+<img width="1914" height="931" alt="Screenshot 2025-10-24 193115" src="https://github.com/user-attachments/assets/c216957d-5bd7-4870-ba85-c8355ec0013a" /> The temperature of battery does tries to rise high during initial part of simulation but eventually starts to drop due to cold plate conduction. I have used only one plate here for conduction and due to this the temperature taking time to drop. 
 
 
 
